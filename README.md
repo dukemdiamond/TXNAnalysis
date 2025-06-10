@@ -20,17 +20,20 @@ The analysis tracks 5 stocks and compares their daily performance YTD against th
 
 | Stock | Days Outperformed | Total Market Down Days | Outperformance Rate |
 |-------|------------------|----------------------|-------------------|
-| TXN   | [11] days         | [49] days             | [11/49]%            |
-| REGN  | [16] days         | [49] days             | [16/49]%            |
-| AMD   | [11] days         | [49] days             | [11/49]%            |
-| GRAL  | [14] days         | [49] days             | [14/49]%            |
-| KLAC  | [16] days         | [49] days             | [16/49]%            |
+| TXN   | [11] days         | [49] days             | [22.4]%            |
+| REGN  | [16] days         | [49] days             | [32.6]%            |
+| AMD   | [11] days         | [49] days             | [22.4]%            |
+| GRAL  | [14] days         | [49] days             | [28.5]%            |
+| KLAC  | [16] days         | [49] days             | [32.6]%            |
 
 ## Performance Visualizations
 
 ### TXN Outperformance Chart
 
 ![TXN Outperformance Days YTD 2025](https://github.com/user-attachments/assets/ff1aec2a-2f38-4f8c-909b-aa6da2ecbe83)
+
+<img width="1590" alt="image" src="https://github.com/user-attachments/assets/951f6cba-7ce9-4153-a394-520607b0a11d" />
+
 
 ### REGN Outperformance Chart
 ![REGN Outperformance Days YTD 2025](https://github.com/user-attachments/assets/0a33bd9a-b0d9-4854-ad55-da834b87eeaa)
